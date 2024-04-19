@@ -1,3 +1,4 @@
 # first-project
 This is my first git repository;
-other: Robin Ghosh
+<br>
+Auther: Robin Ghosh
